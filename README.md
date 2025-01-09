@@ -1,2 +1,2 @@
-# LocalServerFinder
+# LocalServiceFinder
 
